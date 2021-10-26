@@ -1,0 +1,61 @@
+body {
+    background-color: #2a013a;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.meme {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0 6rem;
+}
+
+button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: whitesmoke;
+    background-color: #9265e7;
+    padding: 15px 15px;
+    border-radius: 60px;
+    border: white solid;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #63c9e2;
+}
+
+.cards img:hover {
+    transform: scale(1.2);
+}
+
+.error img {
+    width: 35%;
+}
+
+h1 {
+    font-size: clamp(2.5rem, 2vw, 5rem);
+}
+
+legend {
+    margin: 0 auto;
+    font-size: clamp(1.8rem, 2vw, 3.5rem);
+}
+
+fieldset {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #d80d0d;
+    text-align: center;
+    font-size: clamp(1.5rem, 2vw, 2.5rem);
+    font-weight: bold;
+}
