@@ -5,8 +5,8 @@
 
 
 ### Links to:
-* GH repo:
-* Gh Page:
+* GH repo: https://github.com/Mysia14/cpnt262-a3
+* Gh Page: https://mysia14.github.io/cpnt262-a3/
 
 ### Attributions:
 * I had a great help from Fesal(https://github.com/FesalBadday). He helped me to find out which bugs I was having that I couldnt see it. He also helped me with my API broke link and to build my loop function.
